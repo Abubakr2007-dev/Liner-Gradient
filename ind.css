@@ -1,0 +1,25 @@
+*{
+    margin: 0;
+
+}
+
+
+.box {
+    width: 900px;
+    height: 900px;
+    margin: auto;
+     background: linear-gradient(rgba(0, 0, 0, 0.773),rgba(128, 128, 128, 0.625)), url("/free-nature-images.jpg");
+background-repeat: no-repeat;
+background-size: cover;
+background-position: center;
+    margin-top: 100px;
+}
+
+.box:hover{
+
+   background: linear-gradient(rgba(0, 0, 255, 0.426),rgba(255, 0, 0, 0.59)), url("/free-nature-images.jpg");
+background-repeat: no-repeat;
+background-size: cover;
+background-position: center;
+
+}
